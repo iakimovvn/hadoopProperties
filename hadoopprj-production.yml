@@ -1,9 +1,15 @@
 hadoopprj:
   rabbitmq:
-    host: home.yakimovvn.ru
-    port: 5672
-    username: test
-    password: test
+    exchange:   hadoop-prj.exchange
+
+
+
+# hadoopprj:
+#   rabbitmq:
+#     host: home.yakimovvn.ru
+#     port: 5672
+#     username: test
+#     password: test
 
 # spring:
 #   datasource:
