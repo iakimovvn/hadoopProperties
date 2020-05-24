@@ -1,3 +1,7 @@
+logfile:
+  service:
+    url: "localhost:10210/logfiles"
+
 hadoopprj:
   rabbitmq:
     exchange:   hadoop-prj.exchange
