@@ -1,0 +1,3 @@
+logservice:
+  data:
+    path: /Users/vladimir/java/projects/hadoopPRJ/logfiles
