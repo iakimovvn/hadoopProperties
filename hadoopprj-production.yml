@@ -15,7 +15,7 @@ spring:
     password: test
   jpa:
     database-platform: org.hibernate.dialect.PostgreSQL9Dialect
-    show-sql: false
+    show-sql: true
     hibernate:
       ddl-auto: none
   thymeleaf:
