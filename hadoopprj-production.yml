@@ -6,7 +6,7 @@ hadoopprj:
   rabbitmq:
     exchange:   hadoop-prj.exchange
   hdfs:
-    tokem: R7zZQkdtYS0AwKQ7Zrdd
+    token: R7zZQkdtYS0AwKQ7Zrdd
 
 
 spring:
